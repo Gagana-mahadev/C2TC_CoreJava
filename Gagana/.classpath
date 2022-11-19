@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-17.0.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/gagana_files/Stadium-Seat-Booking-System-master/Database/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/gagana_files/Stadium-Seat-Booking-System-master/dist/lib/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/gagana_files/Stadium-Seat-Booking-System-master/dist/lib/eclipselink.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/gagana_files/Stadium-Seat-Booking-System-master/dist/lib/javax.persistence_2.1.0.v201304241213.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/gagana_files/Stadium-Seat-Booking-System-master/dist/lib/org.eclipse.persistence.jpa.jpql_2.5.2.v20140319-9ad6abd.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/gagana_files/Stadium-Seat-Booking-System-master/dist/lib/postgresql-9.4.1209.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/gagana_files/Stadium-Seat-Booking-System-master/dist/MiniProjectADT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
